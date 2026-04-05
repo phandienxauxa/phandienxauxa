@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an **Embedded & IoT Engineer** from Bách Khoa (HCMUT), dedicated to building seamless and optimized systems.
+I'm an **Embedded & IoT Engineer** from Ho Chi Minh City University of Technology (HCMUT), dedicated to building seamless and optimized systems.
 
 ### 🛠️ I love working with
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
