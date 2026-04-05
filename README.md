@@ -7,6 +7,7 @@ I'm an **Embedded & IoT Engineer** from Bách Khoa (HCMUT), dedicated to buildin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A52A2A?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 ### 🔭 I'm working on
 * **Machine Maintenance Monitoring System (Project 1):** Developing an IoT system using vibration and temperature sensors to monitor industrial equipment, featuring data visualization and future ML integration.
