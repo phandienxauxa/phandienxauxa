@@ -10,28 +10,26 @@ I'm an **Embedded & IoT Engineer** from Bách Khoa (HCMUT), dedicated to buildin
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A52A2A?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 ### 🔭 I'm working on
-* **Machine Maintenance Monitoring System (Project 1):** Developing an IoT system using vibration and temperature sensors to monitor industrial equipment, featuring data visualization and future ML integration.
-* **Edge AI project:** Implementing an air quality forecasting system on embedded hardware.
-* **Smart Agriculture:** Soil moisture monitoring system with a customized Node-RED Dashboard.
-* Active contributor at **HCMUT EE Machine Learning & IoT Lab (MLIoT Lab)**.
+* **Machine Maintenance Monitoring System (Project 1)**
+    * **Firmware:** Developed using **ESP-IDF** on **ESP32** microcontroller.
+    * **Features:** Real-time analysis from vibration (**MPU6050**) and temperature (**DS18B20**) sensors via **MQTT** protocol.
+    * **Goal:** Digitizing maintenance processes towards Predictive Maintenance.
+* **Edge AI Air Quality Forecasting**
+    * **Model:** Optimizing **LSTM/CNN** models using **TensorFlow Lite** for Microcontrollers.
+    * **Implementation:** Deploying on high-performance embedded kits to forecast PM2.5 and toxic gas levels.
+* **Smart Agriculture System**
+    * **Dashboard:** Visualizing sensor data with **Node-RED** and **InfluxDB** (Time-series data).
+    * **Automation:** Soil moisture-based irrigation control with Telegram/Email alerts.
 
 ### 🌱 I'm learning
-* Advanced **Docker** orchestration for IoT.
-* **Ubuntu Linux** kernel optimization.
-* **DevExpress** for professional UI/UX in technical applications.
+* 🐋 **Containerization:** Using **Docker** to orchestrate IoT services (MQTT, Node-RED) on **Ubuntu Linux** Gateways.
+* 🐧 **System Optimization:** Deep diving into **Linux Kernel** and resource management for Embedded Linux.
+* 🖥️ **Desktop Apps:** Utilizing **DevExpress** to build professional monitoring and management UIs.
+* ⚡ **Advanced PCB:** Mastering multi-layer PCB design and EMI/EMC protection in **Altium Designer**.
 
 ### 🤝 I'm looking for help with
-* Scaling Edge AI models to low-power hardware.
-* Best practices in industrial IoT security.
-
-### 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=phandienxauxa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thien's GitHub Stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phandienxauxa&layout=compact&theme=tokyonight&hide_border=true" alt="Thien's Top Languages" height="150px" />
-</p>
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phandienxauxa&theme=tokyonight&hide_border=true)
+* Model compression techniques (Quantization, Pruning) for low-power hardware.
+* Industrial IoT security standards (TLS/SSL, Secure Boot) for embedded devices.
 
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/màu-cam-quả-cam-8a9a40397/?skipRedirect=true)
