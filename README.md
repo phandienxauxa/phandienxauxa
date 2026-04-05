@@ -24,6 +24,15 @@ I'm an **Embedded & IoT Engineer** from Bách Khoa (HCMUT), dedicated to buildin
 * Scaling Edge AI models to low-power hardware.
 * Best practices in industrial IoT security.
 
+### 📊 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=phandienxauxa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thien's GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phandienxauxa&layout=compact&theme=tokyonight&hide_border=true" alt="Thien's Top Languages" height="150px" />
+</p>
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phandienxauxa&theme=tokyonight&hide_border=true)
+
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/màu-cam-quả-cam-8a9a40397/?skipRedirect=true)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thien.thai.9210/)
