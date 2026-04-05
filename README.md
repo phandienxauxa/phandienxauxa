@@ -9,9 +9,10 @@ I'm an **Embedded & IoT Engineer** from Bách Khoa (HCMUT), dedicated to buildin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔭 I'm working on
-* **Edge AI project:** Air quality forecasting system.
-* **Smart Agriculture:** Soil moisture monitoring with Node-RED Dashboard.
-* Projects at **HCMUT EE Machine Learning & IoT Lab**.
+* **Machine Maintenance Monitoring System (Project 1):** Developing an IoT system using vibration and temperature sensors to monitor industrial equipment, featuring data visualization and future ML integration.
+* **Edge AI project:** Implementing an air quality forecasting system on embedded hardware.
+* **Smart Agriculture:** Soil moisture monitoring system with a customized Node-RED Dashboard.
+* Active contributor at **HCMUT EE Machine Learning & IoT Lab (MLIoT Lab)**.
 
 ### 🌱 I'm learning
 * Advanced **Docker** orchestration for IoT.
