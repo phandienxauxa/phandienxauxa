@@ -12,7 +12,7 @@ I'm an **Embedded & IoT Engineer** from Ho Chi Minh City University of Technolog
 ### 🔭 I'm working on
 * **Machine Maintenance Monitoring System (Project 1)**
     * **Firmware:** Developed using **ESP-IDF** on **ESP32** microcontroller.
-    * **Features:** Real-time analysis from vibration (**MPU6050**) and temperature (**DS18B20**) sensors via **MQTT** protocol.
+    * **Features:** Real-time analysis from vibration (**MPU6050**) with (**FFT**) processing and temperature (**AHT30**) sensors via **TCP/IP Wifi Socket** protocol.
     * **Goal:** Digitizing maintenance processes towards Predictive Maintenance.
 * **Edge AI Air Quality Forecasting**
     * **Model:** Optimizing **LSTM/CNN** models using **TensorFlow Lite** for Microcontrollers.
