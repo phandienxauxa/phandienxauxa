@@ -40,4 +40,5 @@ I'm an **Embedded & IoT Engineer** from Ho Chi Minh City University of Technolog
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/878519183581806622)
 
 ### ⚡ Fun fact
-Mình hướng nội, có sở thích nấu ăn và chơi các môn thể thao ^^
+I'm an introvert who enjoys cooking and staying active through sports like badminton, swimming, and gym workouts. ^^
+ 
