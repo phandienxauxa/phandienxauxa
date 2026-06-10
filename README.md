@@ -1,31 +1,32 @@
 # Hi there 👋
-
 I'm an **Embedded & IoT Engineer** from Ho Chi Minh City University of Technology - Vietnam National University (HCMUT - VNU), dedicated to building seamless and optimized systems.
 
 ### 🛠️ I love working with
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A52A2A?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ### 🔭 I'm working on
-* **Machine Maintenance Monitoring System (Project 1)**
-    * **Firmware:** Developed using **ESP-IDF** on **ESP32** microcontroller.
-    * **Features:** Real-time analysis from vibration (**MPU6050**) with (**FFT**) processing and temperature (**AHT30**) sensors via **TCP/IP Wifi Socket** protocol.
-    * **Goal:** Digitizing maintenance processes towards Predictive Maintenance.
-* **Edge AI Air Quality Forecasting**
-    * **Model:** Optimizing **LSTM/CNN** models using **TensorFlow Lite** for Microcontrollers.
-    * **Implementation:** Deploying on high-performance embedded kits to forecast PM2.5 and toxic gas levels.
-* **Smart Agriculture System**
-    * **Dashboard:** Visualizing sensor data with **Node-RED** and **InfluxDB** (Time-series data).
-    * **Automation:** Soil moisture-based irrigation control with Telegram/Email alerts.
+* **Industrial Machinery Maintenance Monitoring System (IIoT Maintenance System)**
+    * **Hardware:** Designed a data acquisition system using **ESP32-WROOM-32U** with **MPU6050** (3-axis vibration) and **AHT30** (temperature & humidity) sensors.
+    * **Analysis:** Integrated **FFT** algorithm to distinguish vibration sources and send alerts via **Google SMTP**.
+    * **Dashboard:** Built on **DevExpress WinForms** platform, aligned with **IIoT** workflow requirements.
+
+* **Air Quality Prediction System with Edge AI**
+    * **Model:** Trained a **Neural Network** (2 hidden layers, ReLU activation) for nonlinear regression on PM2.5 and toxic gas data.
+    * **Deployment:** Deployed model on **CK-RA6M5 (RENESAS)** kit; data forwarded to **ESP32** via **UART3** and pushed to a dashboard through **WebSocket**.
+    * **Debugging:** Used **J-Link** driver on **e2 Studio** with breakpoints and Expressions monitoring.
+
+* **Handheld Game Console — BKonsole**
+    * **Hardware:** Designed PCB in **KiCad**, integrating **LCD 1602**, **8x8 LED Matrix** driven by **MAX7219**, and 4 physical buttons on **ATmega324P**.
+    * **Firmware:** Programmed in **Embedded C** with interrupt handling to implement **Snake** and **Pickleball** game logic.
 
 ### 🌱 I'm learning
 * 🐋 **Containerization:** Using **Docker** to orchestrate IoT services (MQTT, Node-RED) on **Ubuntu Linux** Gateways.
 * 🐧 **System Optimization:** Deep diving into **Linux Kernel** and resource management for Embedded Linux.
 * 🖥️ **Desktop Apps:** Utilizing **DevExpress** to build professional monitoring and management UIs.
-* ⚡ **Advanced PCB:** Mastering multi-layer PCB design and EMI/EMC protection in **Altium Designer**.
+* ⚡ **Advanced PCB:** Mastering multi-layer PCB design and EMI/EMC protection in **KiCad**.
 
 ### 🤝 I'm looking for help with
 * Model compression techniques (Quantization, Pruning) for low-power hardware.
