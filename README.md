@@ -10,9 +10,14 @@ I'm an **Embedded & IoT Engineer** from Ho Chi Minh City University of Technolog
 
 ### 🔭 I'm working on
 * **Industrial Machinery Maintenance Monitoring System (IIoT Maintenance System)**
-    * **Hardware:** Designed a data acquisition system using **ESP32-WROOM-32U** with **MPU6050** (3-axis vibration) and **AHT30** (temperature & humidity) sensors.
+    * **Hardware:** Designed a data acquisition system using **ESP32-WROOM-32U** with **MPU6050** (3-axis vibration), **AHT30** (temperature & humidity), and **INA219** sensors.
     * **Analysis:** Integrated **FFT** algorithm to distinguish vibration sources and send alerts via **Google SMTP**.
     * **Dashboard:** Built on **DevExpress WinForms** platform, aligned with **IIoT** workflow requirements.
+
+* **Factory Employee Tracking System with Edge AI & YOLOv8**
+    * **Computer Vision:** Implemented **YOLOv8** and **ByteTrack** for zone-based personnel identity assignment, dynamically tracking work time, away states, and returns without relying on facial recognition.
+    * **Optimization:** Exported and deployed neural networks using the **OpenVINO** toolkit to maximize real-time inference speed and FPS on local Intel CPU architecture.
+    * **Software Pipeline:** Developed an interactive **OpenCV** application for custom multi-zone drawing, automated CSV event logging for **DevExpress** dashboard integration, and built a custom fine-tuning pipeline using **Roboflow** and **Google Colab**.
 
 * **Air Quality Prediction System with Edge AI**
     * **Model:** Trained a **Neural Network** (2 hidden layers, ReLU activation) for nonlinear regression on PM2.5 and toxic gas data.
@@ -41,4 +46,3 @@ I'm an **Embedded & IoT Engineer** from Ho Chi Minh City University of Technolog
 
 ### ⚡ Fun fact
 I'm an introvert who enjoys cooking and staying active through sports like badminton, swimming, and gym workouts. ^^
- 
